@@ -175,7 +175,12 @@ class ChatVC: JSQMessagesViewController {
         print(textView.text != "")
         isTyping = textView.text != ""
     }
-    // ted test
+    
+    
+    
+    //MARK:- TED test
+    
+    
     private func observeTyping() {
         let typingIndicatorRef = Database.database().reference().child("typingIndicator")
         userIsTypingRef = typingIndicatorRef.child(senderId)
