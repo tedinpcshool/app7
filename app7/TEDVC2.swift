@@ -9,7 +9,7 @@
 import UIKit
 
 class TEDVC2: UIViewController {
-
+// aaa
     @IBOutlet var myLabels: [UILabel]!
     
     
