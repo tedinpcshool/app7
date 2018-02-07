@@ -10,6 +10,8 @@ import UIKit
 
 class TEDVC2: UIViewController {
 // aaa
+//    ddgeet
+    
     @IBOutlet var myLabels: [UILabel]!
     
     
