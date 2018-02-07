@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>817502809770-0l88eecatkujqqmeteqlot66jrp6kbl6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.817502809770-0l88eecatkujqqmeteqlot66jrp6kbl6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOaj5K0ydgOAFHiyikZQTYlkeZSD_1lq8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>817502809770</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>idv.ted2017.app7</string>
+	<key>PROJECT_ID</key>
+	<string>daton-62dd9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>daton-62dd9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:817502809770:ios:0d1239386c3b83fc</string>
+	<key>DATABASE_URL</key>
+	<string>https://daton-62dd9.firebaseio.com</string>
+</dict>
+</plist>
